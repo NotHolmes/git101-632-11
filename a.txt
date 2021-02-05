@@ -1,5 +1,1 @@
-#include <stdio>
-
-int main(){
-    print("Hello git"\n);
-}
+hello git from 2d7a0d0
